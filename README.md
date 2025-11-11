@@ -1,10 +1,12 @@
 # Portfolio
 
-## 2025
+## Achievements
+
+### 2025
 World's first robot-assisted cataract surgery with Horizon Surgical Systems.
 ![Horizon Surgical Systems clinical team performing cataract surgery with the Polaris system](images/hss.png)
 
-## 2016
+### 2016
 First place at RoboSub, an international student competition for autonomous submarines, with the Caltech Robotics Team.
 ![Dory submarine by the Caltech Robotics Team](images/crt.png)
 
