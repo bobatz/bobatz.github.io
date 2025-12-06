@@ -1,14 +1,31 @@
 # Portfolio
 
-## Achievements
+## Highlights
 
 ### 2025
 World's first robot-assisted cataract surgery with Horizon Surgical Systems.
 ![Horizon Surgical Systems clinical team performing cataract surgery with the Polaris system](images/hss.png)
 
+### 2024
+Real-time video stream and elevation mapping on a Unitree Go robot dog.
+![Unitree Go robot dog at Caltech Center for Autonomous Systems and Technologies](images/unitree.jpg)
+
+Real-time power measurement at a concentrated solar power plant using computer vision.
+![Heliogen testing and demonstration facility at Lancaster](images/heliogen.png)
+
+### 2019
+Custom drone with Jetson TX2 for swarm robotics research.
+![Drone with removed propellers at the Caltech Center for Autonomous Systems and Technologies](images/drone.jpg)
+
+
+### 2017
+Custom autonomous submarine hull for the Caltech Robotics Team.
+![GD&T engineering drawing of the bottom hull of an autonomous submarine](images/bottom_hull.png)
+
 ### 2016
 First place at RoboSub, an international student competition for autonomous submarines, with the Caltech Robotics Team.
 ![Dory submarine by the Caltech Robotics Team](images/crt.png)
+
 
 ## Acknowledgements
 - An, Y., Mitchell, D., Lathrop, J., Flynn, D., & Chung, S. J. (2024, November). Motor Imagery Teleoperation of a Mobile Robot Using a Low-Cost Brain-Computer Interface for Multi-Day Validation. In 2024 IEEE Conference on Telepresence (pp. 103-110). IEEE.
