@@ -2,6 +2,10 @@
 
 ## Highlights
 
+### 2026
+Real-time 3D reconstruction of an eye for robot-assisted cataract surgery (image below is AI-generated due to IP).
+![AI-generated graphic of a human eyeball mesh](images/eyeball.jpg)
+
 ### 2025
 World's first robot-assisted cataract surgery with Horizon Surgical Systems.
 ![Horizon Surgical Systems clinical team performing cataract surgery with the Polaris system](images/hss.png)
